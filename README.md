@@ -1,6 +1,7 @@
-# Carbon Footprint Estimator - Regression Model
+# Carbon Footprint Estimator
 
-This project estimates an individual's **weekly carbon footprint (CO₂ kg/week)** using a regression model based on lifestyle choices. 
+This project estimates an individual's weekly carbon footprint (CO₂ kg/week) using a regression model based on lifestyle factors like diet, transport etc. It aims to raise awareness of personal environmental impact through data-driven insights.
+
 --- 
 
 ## 📊 Dataset Used
@@ -8,7 +9,6 @@ This project estimates an individual's **weekly carbon footprint (CO₂ kg/week)
 I used a dataset from kaggle, which includes various features.Actually the assignment said to include diet, transport, and electricity usage, but I searched for many datasets and couldn't find anything like that and if I input it myself, there is a chance of making a mistake, it would have been more wrong.So I worked on the remaining features.
 - **Sex**
 - **Diet type**
-- **Transport usage** 
 - **Vehicle Monthly Distance Km**
   
 ---
