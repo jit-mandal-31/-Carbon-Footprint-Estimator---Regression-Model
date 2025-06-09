@@ -22,14 +22,14 @@ I used a dataset from kaggle, which includes various features.Actually the assig
    - Handled missing values and outliers.
 
 2. **Modeling**
-   - Implemented both Linear Regression and a Tree-Based model (Random Forest).
+   - Implemented both Linear Regression and a Tree-Based model (Random Forest and CART).
    - Evaluated using **Mean Squared Error (MSE)** and **visual performance plots** (e.g., actual vs predicted).
 
 3. **Results**
-   
-    I apply both linear regression and random forest
+4. 
    - Linear Regression MSE: 618994.02
    - Random forest MSE: 862184.90
+   - CART MSE: 1208839.60
      
      The Linear regression model showed better performance in terms of MSE.
      
