@@ -25,9 +25,11 @@ I used a dataset from kaggle, which includes various features.Actually the assig
    - Evaluated using **Mean Squared Error (MSE)** and **visual performance plots** (e.g., actual vs predicted).
 
 3. **Results**
-   - Random forest MSE: 851671.76
-     Linear Regression MSE: 619046.50
+   - Linear Regression MSE: 619046.50
+     Random forest MSE: 860699.32
+     
      The Linear regression model showed better performance in terms of MSE.
+     
    - Graphs help visualize prediction accuracy and feature impact.
 
      ---
