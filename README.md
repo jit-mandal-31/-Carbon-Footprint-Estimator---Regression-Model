@@ -1,6 +1,6 @@
 # Carbon Footprint Estimator - Regression Model
 
-This project estimates an individual's **weekly carbon footprint (CO₂ kg/week)** using a regression model based on lifestyle choices. It is built as part of an entry-level AI/ML task.
+This project estimates an individual's **weekly carbon footprint (CO₂ kg/week)** using a regression model based on lifestyle choices. 
 --- 
 
 ## 📊 Dataset Used
