@@ -16,7 +16,7 @@ I used a dataset from kaggle, which includes various features.Actually the assig
 ## 🧠 Approach Summary
 
 1. **Data Preprocessing**
-   - Encoded categorical variables (diet type).
+   - Encoded categorical variables  using label encoding.
    - Normalized numerical inputs (transport and vehicle monthly transport).
    - Handled missing values and outliers.
 
