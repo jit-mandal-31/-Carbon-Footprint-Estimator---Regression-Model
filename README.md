@@ -17,7 +17,7 @@ I used a dataset from kaggle, which includes various features.Actually the assig
 
 1. **Data Preprocessing**
    - Encoded categorical variables  using label encoding.
-   - Normalized numerical inputs (transport and vehicle monthly transport).
+   - Normalized numerical inputs .
    - Handled missing values and outliers.
 
 2. **Modeling**
