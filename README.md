@@ -26,7 +26,7 @@ I used a dataset from kaggle, which includes various features.Actually the assig
 
 3. **Results**
    - Linear Regression MSE: 619046.50
-     Random forest MSE: 860699.32
+   - Random forest MSE: 855773.76
      
      The Linear regression model showed better performance in terms of MSE.
      
