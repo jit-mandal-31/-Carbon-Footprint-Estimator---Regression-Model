@@ -25,6 +25,7 @@ I used a dataset from kaggle, which includes various features.Actually the assig
    - Evaluated using **Mean Squared Error (MSE)** and **visual performance plots** (e.g., actual vs predicted).
 
 3. **Results**
+   
     I apply both linear regression and random forest
    - Linear Regression MSE: 618994.02
    - Random forest MSE: 862184.90
