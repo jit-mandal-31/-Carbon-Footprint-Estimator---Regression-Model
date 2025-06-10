@@ -17,9 +17,9 @@ I used a dataset from kaggle, which includes various features.Actually the assig
 ## 🧠 Approach Summary
 
 1. **Data Preprocessing**
-   - Encoded categorical variables  using label encoding.
-   - Normalized numerical inputs .
    - Handled missing values and outliers.
+   - Normalized numerical inputs .
+   - Encoded categorical variables  using label encoding.
 
 2. **Modeling**
    - Implemented both Linear Regression and a Tree-Based model (Random Forest and CART).
